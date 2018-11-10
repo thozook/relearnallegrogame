@@ -8,5 +8,9 @@ Getting back into Game development
 4
 5
 
+<<<<<<< HEAD
 
 Updates to push
+=======
+This is new text
+>>>>>>> dev
